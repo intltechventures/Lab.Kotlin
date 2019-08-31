@@ -16,6 +16,11 @@ A repository that serves as my lab for exploring the Kotlin language
 ## Tutorials
 - https://kotlinlang.org/docs/tutorials/command-line.html
 - https://kotlinlang.org/docs/tutorials/native/basic-kotlin-native-app.html
+- https://www.jetbrains.com/help/education/learner-start-guide.html
+
+
+## Books
+- https://www.atomickotlin.com/
 
 
 ## IDE Support
