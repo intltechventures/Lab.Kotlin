@@ -24,5 +24,8 @@ A repository that serves as my lab for exploring the Kotlin language
 
 
 ## IDE Support
-- https://kotlinlang.org/docs/tutorials/getting-started-eclipse.html
-- https://kotlinlang.org/docs/tutorials/getting-started.html
+- Eclipse:
+  + Plugin:
+    * http://marketplace.eclipse.org/content/kotlin-plugin-eclipse
+  + https://kotlinlang.org/docs/tutorials/getting-started-eclipse.html
+  + https://kotlinlang.org/docs/tutorials/getting-started.html
