@@ -27,5 +27,6 @@ A repository that serves as my lab for exploring the Kotlin language
 - Eclipse:
   + Plugin:
     * http://marketplace.eclipse.org/content/kotlin-plugin-eclipse
+      * https://dl.bintray.com/jetbrains/kotlin/eclipse-plugin/last/
   + https://kotlinlang.org/docs/tutorials/getting-started-eclipse.html
   + https://kotlinlang.org/docs/tutorials/getting-started.html
