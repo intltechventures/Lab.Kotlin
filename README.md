@@ -3,8 +3,12 @@ A repository that serves as my lab for exploring the Kotlin language
 
 ## References
 - https://kotlinlang.org/
+
 - https://kotlinlang.org/docs/reference/
+  + https://kotlinlang.org/docs/kotlin-docs.pdf
+
 - https://kotlinlang.org/api/latest/jvm/stdlib/index.html
+
 - https://github.com/jetbrains/kotlin
 
 
